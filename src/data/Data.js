@@ -58,7 +58,7 @@ export const trending = [
     title: "Your most unhappy customers are your greatest source of learning.",
     description:
       "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-    date: "JULY 2, 2020",
+    date: "JULY 12, 2024",
     purpose: "Business, Travel",
     name: "Sergy Campbell",
     designation: "CEO and Founder",
@@ -68,10 +68,11 @@ export const trending = [
   {
     id: 2,
     trending_img: "../images/2.webp",
-    title: "Your most unhappy customers are your greatest source of learning.",
+    title:
+      "Unhappy customers often provide invaluable insights into areas where our products or services fall short of expectations.",
     description:
-      "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-    date: "JULY 2, 2020",
+      "Far from the bustling cities of Vokalia and Consonantia, where consonants and vowels dance in symphony, dwells the tranquil abode of the untold narratives.",
+    date: "JULY 12, 2024",
     purpose: "Business, Travel",
     name: "Sergy Campbell",
     designation: "CEO and Founder",
@@ -81,10 +82,11 @@ export const trending = [
   {
     id: 3,
     trending_img: "../images/3.webp",
-    title: "Your most unhappy customers are your greatest source of learning.",
+    title:
+      "By carefully listening to their concerns and understanding their experiences, we gain a deeper understanding of where we can make meaningful changes.",
     description:
-      "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-    date: "JULY 2, 2020",
+      "Across the endless expanse of typographic wilderness, where ink meets paper and ideas bloom, resides the elusive community of the unwritten tales.",
+    date: "JULY 12, 2024",
     purpose: "Business, Travel",
     name: "Sergy Campbell",
     designation: "CEO and Founder",
@@ -94,10 +96,11 @@ export const trending = [
   {
     id: 4,
     trending_img: "../images/4.webp",
-    title: "Your most unhappy customers are your greatest source of learning.",
+    title:
+      "Ultimately, embracing feedback from unhappy customers transforms their dissatisfaction into an opportunity for growth and innovation.",
     description:
-      "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-    date: "JULY 2, 2020",
+      "Amidst the echoes of forgotten languages and lost syntax, beneath the canopy of metaphorical mountains, sleeps the essence of the unseen stories.",
+    date: "JULY 12, 2024",
     purpose: "Business, Travel",
     name: "Sergy Campbell",
     designation: "CEO and Founder",

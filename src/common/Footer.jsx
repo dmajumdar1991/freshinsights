@@ -7,16 +7,16 @@ const Footer = () => {
     <>
       <div className="my-32 text-center">
         <div className="flex gap-4 justify-center ">
-          <div className="p-4 rounded-full hover:scale-110 transition-all shadow-lg hover:shadow-xl cursor-pointer">
+          <div className="p-4 rounded-full hover:scale-110 transition-all duration-700 shadow-lg hover:shadow-xl cursor-pointer">
             <FaFacebook className="text-blue-600" />
           </div>
-          <div className="p-4 rounded-full hover:scale-110 transition-all shadow-lg hover:shadow-xl cursor-pointer">
+          <div className="p-4 rounded-full hover:scale-110 transition-all duration-700 shadow-lg hover:shadow-xl cursor-pointer">
             <FaInstagram className="text-white rounded-[4px] bg-gradient-to-r from-[#833ab4] via-[#fd1d1d] to-[#fcb045]" />
           </div>
-          <div className="p-4 rounded-full hover:scale-110 transition-all shadow-lg hover:shadow-xl cursor-pointer">
+          <div className="p-4 rounded-full hover:scale-110 transition-all duration-700 shadow-lg hover:shadow-xl cursor-pointer">
             <FaLinkedin className="text-blue-800" />
           </div>
-          <div className="p-4 rounded-full hover:scale-110 transition-all shadow-lg hover:shadow-xl cursor-pointer">
+          <div className="p-4 rounded-full hover:scale-110 transition-all duration-700 shadow-lg hover:shadow-xl cursor-pointer">
             <FaTwitter className="text-blue-600" />
           </div>
         </div>
