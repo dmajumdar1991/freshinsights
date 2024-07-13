@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 const Footer = () => {
   return (
     <>
-      <div className="my-32 text-center">
+      <div className="mt-8 mb-12 text-center">
         <div className="flex gap-4 justify-center ">
           <div className="p-4 rounded-full hover:scale-110 transition-all duration-700 shadow-lg hover:shadow-xl cursor-pointer">
             <FaFacebook className="text-blue-600" />

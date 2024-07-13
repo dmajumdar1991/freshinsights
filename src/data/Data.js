@@ -1,5 +1,10 @@
-import { FaFacebook, FaInstagram, FaLinkedin, FaYoutube } from "react-icons/fa";
-import { FaTwitter } from "react-icons/fa6";
+import {
+  FaFacebook,
+  FaInstagram,
+  FaLinkedin,
+  FaYoutube,
+  FaTwitter,
+} from "react-icons/fa";
 
 export const navbar = [
   {
