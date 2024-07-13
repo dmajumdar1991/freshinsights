@@ -39,27 +39,27 @@ const Header = () => {
 
             <div className="w-28 cursor-pointer">
               <Link to="/">
-                <img src="./logo.png" alt="logo" />
+                <img src="../logo.png" alt="logo" />
               </Link>
             </div>
 
-            <div className="flex gap-4 shadow-md p-2.5 rounded-full">
+            <div className="flex gap-4 shadow-md p-2.5 rounded-full ">
               <BiLogoTwitter className="text-blue-600 text-lg cursor-pointer" />
               <BiLogoFacebook className="text-blue-600 text-lg cursor-pointer" />
               <BiLogoLinkedin className="text-blue-800 text-lg cursor-pointer" />
             </div>
 
-            <div>
+            {/* <div>
               <RxHamburgerMenu
                 className="text-4xl cursor-pointer"
                 onClick={navMenuOpen}
               />
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
 
-      <div
+      {/* <div
         className={`fixed w-1/5 right-0 top-0 h-full z-10 transform ${
           toggleMenu ? "translate-x-0" : "translate-x-full"
         } transition-transform duration-700 ease-in-out shadow-lg bg-white w-fullscreen768`}
@@ -121,7 +121,7 @@ const Header = () => {
             ))}
           </ul>
         </div>
-      </div>
+      </div> */}
     </>
   );
 };

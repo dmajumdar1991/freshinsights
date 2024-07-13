@@ -28,6 +28,10 @@ const Footer = () => {
           <p className="mt-2 italic">
             <span className="font-sans text-white font-bold bg-gradient-to-r from-[#833ab4] via-[#e61a1a] to-[#833ab4] px-4 py-[3px] rounded-full shadow-md">
               Crafted and Developed by
+            </span>
+            <br />
+            <br />
+            <span className="font-sans text-white font-bold bg-gradient-to-r from-[#833ab4] via-[#e61a1a] to-[#833ab4] px-4 py-[3px] rounded-full shadow-md">
               <Link to="https://www.linkedin.com/in/dipankar-majumdar-7aa5a3265">
                 <span title="Please click to visit my LinkedIn profile">
                   &nbsp;Dipankar Majumdar
